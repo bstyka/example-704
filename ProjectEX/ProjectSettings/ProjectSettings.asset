@@ -3,8 +3,17 @@
 --- !u!129 &1
 PlayerSettings:
   m_ObjectHideFlags: 0
+<<<<<<< HEAD
   serializedVersion: 11
   productGUID: f5a3ab1af2960184cbd0071f01a01521
+=======
+  serializedVersion: 10
+<<<<<<< HEAD
+  productGUID: cd37a768f45a52248a77c523f8aed5af
+=======
+  productGUID: 3199590fa6503e1449aad6cd2ff19c73
+>>>>>>> 4c90f394e9487ee2fea704b875be978d107fe8ad
+>>>>>>> 2626e633bd5099758bbd34199e39bceb989a59d2
   AndroidProfiler: 0
   defaultScreenOrientation: 4
   targetDevice: 2
@@ -76,7 +85,6 @@ PlayerSettings:
   forceSingleInstance: 0
   resizableWindow: 0
   useMacAppStoreValidation: 0
-  macAppStoreCategory: public.app-category.games
   gpuSkinning: 0
   graphicsJobs: 0
   xboxPIXTextureCapture: 0
@@ -97,6 +105,7 @@ PlayerSettings:
   n3dsDisableStereoscopicView: 0
   n3dsEnableSharedListOpt: 1
   n3dsEnableVSync: 0
+  uiUse16BitDepthBuffer: 0
   ignoreAlphaClear: 0
   xboxOneResolution: 0
   xboxOneMonoLoggingLevel: 0
@@ -119,38 +128,33 @@ PlayerSettings:
     16:10: 1
     16:9: 1
     Others: 1
+  bundleIdentifier: com.Company.ProductName
   bundleVersion: 1.0
   preloadedAssets: []
   metroInputSource: 0
   m_HolographicPauseOnTrackingLoss: 1
   xboxOneDisableKinectGpuReservation: 0
-  xboxOneEnable7thCore: 0
-  vrSettings:
-    cardboard:
-      depthFormat: 0
-      enableTransitionView: 0
-    daydream:
-      depthFormat: 0
-      useSustainedPerformanceMode: 0
-    hololens:
-      depthFormat: 1
   protectGraphicsMemory: 0
+<<<<<<< HEAD
   useHDRDisplay: 0
   applicationIdentifier: {}
   buildNumber: {}
+=======
+>>>>>>> 2626e633bd5099758bbd34199e39bceb989a59d2
   AndroidBundleVersionCode: 1
-  AndroidMinSdkVersion: 16
-  AndroidTargetSdkVersion: 0
+  AndroidMinSdkVersion: 9
   AndroidPreferredInstallLocation: 1
   aotOptions: 
+  apiCompatibilityLevel: 2
   stripEngineCode: 1
   iPhoneStrippingLevel: 0
   iPhoneScriptCallOptimization: 0
+  iPhoneBuildNumber: 0
   ForceInternetPermission: 0
   ForceSDCardPermission: 0
   CreateWallpaper: 0
   APKExpansionFiles: 0
-  keepLoadedShadersAlive: 0
+  preloadShaders: 0
   StripUnusedMeshComponents: 0
   VertexChannelCompressionMask:
     serializedVersion: 2
@@ -202,9 +206,12 @@ PlayerSettings:
   iOSURLSchemes: []
   iOSBackgroundModes: 0
   iOSMetalForceHardShadows: 0
+<<<<<<< HEAD
   metalEditorSupport: 1
   metalAPIValidation: 1
   iOSRenderExtraFrameOnPause: 0
+=======
+>>>>>>> 2626e633bd5099758bbd34199e39bceb989a59d2
   appleDeveloperTeamID: 
   iOSManualSigningProvisioningProfileID: 
   tvOSManualSigningProvisioningProfileID: 
@@ -249,7 +256,6 @@ PlayerSettings:
   wiiUGamePadStartupScreen: {fileID: 0}
   wiiUDrcBufferDisabled: 0
   wiiUProfilerLibPath: 
-  playModeTestRunnerEnabled: 0
   actionOnDotNetUnhandledException: 1
   enableInternalProfiler: 0
   logObjCUncaughtExceptions: 1
@@ -257,6 +263,7 @@ PlayerSettings:
   cameraUsageDescription: 
   locationUsageDescription: 
   microphoneUsageDescription: 
+<<<<<<< HEAD
   switchNetLibKey: 
   switchSocketMemoryPoolSize: 6144
   switchSocketAllocatorPoolSize: 128
@@ -366,6 +373,18 @@ PlayerSettings:
   switchParentalControl: 0
   switchAllowsScreenshot: 1
   switchDataLossConfirmation: 0
+=======
+  XboxTitleId: 
+  XboxImageXexPath: 
+  XboxSpaPath: 
+  XboxGenerateSpa: 0
+  XboxDeployKinectResources: 0
+  XboxSplashScreen: {fileID: 0}
+  xboxEnableSpeech: 0
+  xboxAdditionalTitleMemorySize: 0
+  xboxDeployKinectHeadOrientation: 0
+  xboxDeployKinectHeadPosition: 0
+>>>>>>> 2626e633bd5099758bbd34199e39bceb989a59d2
   ps4NPAgeRating: 12
   ps4NPTitleSecret: 
   ps4NPTrophyPackPath: 
@@ -485,7 +504,6 @@ PlayerSettings:
   spritePackerPolicy: 
   webGLMemorySize: 256
   webGLExceptionSupport: 1
-  webGLNameFilesAsHashes: 0
   webGLDataCaching: 0
   webGLDebugSymbols: 0
   webGLEmscriptenArgs: 
@@ -500,7 +518,10 @@ PlayerSettings:
   scriptingBackend: {}
   incrementalIl2cppBuild: {}
   additionalIl2CppArgs: 
+<<<<<<< HEAD
   apiCompatibilityLevelPerPlatform: {}
+=======
+>>>>>>> 2626e633bd5099758bbd34199e39bceb989a59d2
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
   metroPackageName: ProjectEX
@@ -576,6 +597,7 @@ PlayerSettings:
   XboxOneSplashScreen: {fileID: 0}
   XboxOneAllowedProductIds: []
   XboxOnePersistentLocalStorageSize: 0
+<<<<<<< HEAD
   xboxOneScriptCompiler: 0
   vrEditorSettings:
     daydream:
@@ -584,8 +606,15 @@ PlayerSettings:
   cloudServicesEnabled: {}
   facebookSdkVersion: 7.9.1
   apiCompatibilityLevel: 2
+=======
+  vrEditorSettings: {}
+  cloudServicesEnabled: {}
+>>>>>>> 2626e633bd5099758bbd34199e39bceb989a59d2
   cloudProjectId: 
   projectName: 
   organizationId: 
   cloudEnabled: 0
+<<<<<<< HEAD
   enableNewInputSystem: 0
+=======
+>>>>>>> 2626e633bd5099758bbd34199e39bceb989a59d2
