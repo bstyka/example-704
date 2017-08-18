@@ -4,10 +4,13 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   serializedVersion: 12
   productGUID: 348d3a358a38d6544860e376a6a08652
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
   serializedVersion: 10
   productGUID: b8ca2325d092e4142a51efc31082536e
 =======
@@ -42,6 +45,9 @@ PlayerSettings:
 >>>>>>> 0e21b3943b8681105d9f60f30f23997778f82bc1
 >>>>>>> f068f8c43754b8a040d90a18dd7570f010234483
 >>>>>>> 17fc6b0fde1a3c3db67b5de59ffe7496f658362c
+<<<<<<< HEAD
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
+=======
 >>>>>>> c5355364e0da458642323b425de8fbc537281d7a
   AndroidProfiler: 0
   defaultScreenOrientation: 4
@@ -176,10 +182,18 @@ PlayerSettings:
       depthFormat: 1
   protectGraphicsMemory: 0
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
   useHDRDisplay: 0
 =======
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
+  useHDRDisplay: 0
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
   useHDRDisplay: 0
 =======
@@ -190,6 +204,9 @@ PlayerSettings:
 <<<<<<< HEAD
 >>>>>>> f068f8c43754b8a040d90a18dd7570f010234483
 >>>>>>> c5355364e0da458642323b425de8fbc537281d7a
+=======
+>>>>>>> f068f8c43754b8a040d90a18dd7570f010234483
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
   targetPixelDensity: 0
   resolutionScalingMode: 0
   applicationIdentifier: {}
@@ -197,7 +214,10 @@ PlayerSettings:
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
 =======
 >>>>>>> 4c90f394e9487ee2fea704b875be978d107fe8ad
 =======
@@ -209,6 +229,9 @@ PlayerSettings:
 >>>>>>> 0e21b3943b8681105d9f60f30f23997778f82bc1
 >>>>>>> f068f8c43754b8a040d90a18dd7570f010234483
 >>>>>>> 17fc6b0fde1a3c3db67b5de59ffe7496f658362c
+<<<<<<< HEAD
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
+=======
 >>>>>>> c5355364e0da458642323b425de8fbc537281d7a
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 16
@@ -275,9 +298,15 @@ PlayerSettings:
   iOSBackgroundModes: 0
   iOSMetalForceHardShadows: 0
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
   metalEditorSupport: 1
   metalAPIValidation: 1
   iOSRenderExtraFrameOnPause: 0
+<<<<<<< HEAD
+=======
 =======
 <<<<<<< HEAD
 =======
@@ -298,6 +327,9 @@ PlayerSettings:
 >>>>>>> 0e21b3943b8681105d9f60f30f23997778f82bc1
 >>>>>>> f068f8c43754b8a040d90a18dd7570f010234483
 >>>>>>> 17fc6b0fde1a3c3db67b5de59ffe7496f658362c
+<<<<<<< HEAD
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
+=======
 >>>>>>> c5355364e0da458642323b425de8fbc537281d7a
   appleDeveloperTeamID: 
   iOSManualSigningProvisioningProfileID: 
@@ -356,8 +388,11 @@ PlayerSettings:
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
+=======
 >>>>>>> c5355364e0da458642323b425de8fbc537281d7a
   switchNetLibKey: 
   switchSocketMemoryPoolSize: 6144
@@ -374,10 +409,18 @@ PlayerSettings:
   switchUseCPUProfiler: 0
   switchApplicationID: 0x01004b9000490000
 =======
+<<<<<<< HEAD
+  switchScreenResolutionBehavior: 2
+  switchUseCPUProfiler: 0
+  switchApplicationID: 0x01004b9000490000
+=======
   switchUseCPUProfiler: 0
   switchApplicationID: 0x0005000C10000001
 >>>>>>> f216f500aae4823573736fe992bcff9c973b7eca
 >>>>>>> f068f8c43754b8a040d90a18dd7570f010234483
+<<<<<<< HEAD
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
+=======
 >>>>>>> c5355364e0da458642323b425de8fbc537281d7a
   switchNSODependencies: 
   switchTitleNames_0: 
@@ -397,12 +440,18 @@ PlayerSettings:
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
   switchTitleNames_12: 
   switchTitleNames_13: 
   switchTitleNames_14: 
 >>>>>>> f216f500aae4823573736fe992bcff9c973b7eca
 >>>>>>> f068f8c43754b8a040d90a18dd7570f010234483
+<<<<<<< HEAD
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
+=======
 >>>>>>> c5355364e0da458642323b425de8fbc537281d7a
   switchPublisherNames_0: 
   switchPublisherNames_1: 
@@ -421,12 +470,18 @@ PlayerSettings:
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
   switchPublisherNames_12: 
   switchPublisherNames_13: 
   switchPublisherNames_14: 
 >>>>>>> f216f500aae4823573736fe992bcff9c973b7eca
 >>>>>>> f068f8c43754b8a040d90a18dd7570f010234483
+<<<<<<< HEAD
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
+=======
 >>>>>>> c5355364e0da458642323b425de8fbc537281d7a
   switchIcons_0: {fileID: 0}
   switchIcons_1: {fileID: 0}
@@ -445,12 +500,18 @@ PlayerSettings:
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
   switchIcons_12: {fileID: 0}
   switchIcons_13: {fileID: 0}
   switchIcons_14: {fileID: 0}
 >>>>>>> f216f500aae4823573736fe992bcff9c973b7eca
 >>>>>>> f068f8c43754b8a040d90a18dd7570f010234483
+<<<<<<< HEAD
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
+=======
 >>>>>>> c5355364e0da458642323b425de8fbc537281d7a
   switchSmallIcons_0: {fileID: 0}
   switchSmallIcons_1: {fileID: 0}
@@ -469,12 +530,18 @@ PlayerSettings:
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
   switchSmallIcons_12: {fileID: 0}
   switchSmallIcons_13: {fileID: 0}
   switchSmallIcons_14: {fileID: 0}
 >>>>>>> f216f500aae4823573736fe992bcff9c973b7eca
 >>>>>>> f068f8c43754b8a040d90a18dd7570f010234483
+<<<<<<< HEAD
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
+=======
 >>>>>>> c5355364e0da458642323b425de8fbc537281d7a
   switchManualHTML: 
   switchAccessibleURLs: 
@@ -487,9 +554,15 @@ PlayerSettings:
 <<<<<<< HEAD
   switchPresenceGroupId: 0x01004b9000490000
 =======
+<<<<<<< HEAD
+  switchPresenceGroupId: 0x01004b9000490000
+=======
   switchPresenceGroupId: 0x0005000C10000001
 >>>>>>> f216f500aae4823573736fe992bcff9c973b7eca
 >>>>>>> f068f8c43754b8a040d90a18dd7570f010234483
+<<<<<<< HEAD
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
+=======
 >>>>>>> c5355364e0da458642323b425de8fbc537281d7a
   switchLogoHandling: 0
   switchReleaseVersion: 0
@@ -508,9 +581,15 @@ PlayerSettings:
 <<<<<<< HEAD
   switchApplicationAttribute: 0
 =======
+<<<<<<< HEAD
+  switchApplicationAttribute: 0
+=======
   switchAttribute: 0
 >>>>>>> f216f500aae4823573736fe992bcff9c973b7eca
 >>>>>>> f068f8c43754b8a040d90a18dd7570f010234483
+<<<<<<< HEAD
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
+=======
 >>>>>>> c5355364e0da458642323b425de8fbc537281d7a
   switchCardSpecSize: 4
   switchCardSpecClock: 25
@@ -534,9 +613,15 @@ PlayerSettings:
 <<<<<<< HEAD
   switchLocalCommunicationIds_0: 0x01004b9000490000
 =======
+<<<<<<< HEAD
+  switchLocalCommunicationIds_0: 0x01004b9000490000
+=======
   switchLocalCommunicationIds_0: 0x0005000C10000001
 >>>>>>> f216f500aae4823573736fe992bcff9c973b7eca
 >>>>>>> f068f8c43754b8a040d90a18dd7570f010234483
+<<<<<<< HEAD
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
+=======
 >>>>>>> c5355364e0da458642323b425de8fbc537281d7a
   switchLocalCommunicationIds_1: 
   switchLocalCommunicationIds_2: 
@@ -551,8 +636,12 @@ PlayerSettings:
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+>>>>>>> f068f8c43754b8a040d90a18dd7570f010234483
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
+=======
 >>>>>>> f068f8c43754b8a040d90a18dd7570f010234483
 >>>>>>> c5355364e0da458642323b425de8fbc537281d7a
   switchSupportedNpadStyles: 3
@@ -567,7 +656,10 @@ PlayerSettings:
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
 =======
 >>>>>>> f216f500aae4823573736fe992bcff9c973b7eca
 =======
@@ -595,6 +687,9 @@ PlayerSettings:
 >>>>>>> 0e21b3943b8681105d9f60f30f23997778f82bc1
 >>>>>>> f068f8c43754b8a040d90a18dd7570f010234483
 >>>>>>> 17fc6b0fde1a3c3db67b5de59ffe7496f658362c
+<<<<<<< HEAD
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
+=======
 >>>>>>> c5355364e0da458642323b425de8fbc537281d7a
   ps4NPAgeRating: 12
   ps4NPTitleSecret: 
@@ -633,8 +728,11 @@ PlayerSettings:
   ps4GarlicHeapSize: 2048
   ps4ProGarlicHeapSize: 2560
 <<<<<<< HEAD
+<<<<<<< HEAD
   ps4Passcode: frAQBc8Wsa1xVPfvJcrgRYwTiizs2trQ
 =======
+=======
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
   ps4Passcode: eaoEiIgxIX4a2dREbbSqWy6yhKIDCdJO
   ps4UseDebugIl2cppLibs: 0
 >>>>>>> c5355364e0da458642323b425de8fbc537281d7a
@@ -735,6 +833,7 @@ PlayerSettings:
   incrementalIl2cppBuild: {}
   additionalIl2CppArgs: 
 <<<<<<< HEAD
+<<<<<<< HEAD
   scriptingRuntimeVersion: 0
   apiCompatibilityLevelPerPlatform: {}
 =======
@@ -746,6 +845,15 @@ PlayerSettings:
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
 >>>>>>> f068f8c43754b8a040d90a18dd7570f010234483
   scriptingRuntimeVersion: 0
   apiCompatibilityLevelPerPlatform: {}
@@ -758,6 +866,9 @@ PlayerSettings:
 >>>>>>> f216f500aae4823573736fe992bcff9c973b7eca
 >>>>>>> 0e21b3943b8681105d9f60f30f23997778f82bc1
 >>>>>>> 17fc6b0fde1a3c3db67b5de59ffe7496f658362c
+<<<<<<< HEAD
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
+=======
 >>>>>>> c5355364e0da458642323b425de8fbc537281d7a
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
@@ -835,8 +946,11 @@ PlayerSettings:
   XboxOneAllowedProductIds: []
   XboxOnePersistentLocalStorageSize: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
   vrEditorSettings: {}
   cloudServicesEnabled: {}
 =======
@@ -845,6 +959,9 @@ PlayerSettings:
   cloudServicesEnabled: {}
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
+=======
 >>>>>>> c5355364e0da458642323b425de8fbc537281d7a
   xboxOneScriptCompiler: 0
   vrEditorSettings:
@@ -856,6 +973,10 @@ PlayerSettings:
 <<<<<<< HEAD
   apiCompatibilityLevel: 2
 =======
+  apiCompatibilityLevel: 2
+=======
+<<<<<<< HEAD
+  facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
 =======
 <<<<<<< HEAD
@@ -875,16 +996,22 @@ PlayerSettings:
 >>>>>>> 0e21b3943b8681105d9f60f30f23997778f82bc1
 >>>>>>> f068f8c43754b8a040d90a18dd7570f010234483
 >>>>>>> 17fc6b0fde1a3c3db67b5de59ffe7496f658362c
+<<<<<<< HEAD
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
+=======
 >>>>>>> c5355364e0da458642323b425de8fbc537281d7a
   cloudProjectId: 
   projectName: 
   organizationId: 
   cloudEnabled: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
 =======
 <<<<<<< HEAD
   enableNativePlatformBackendsForNewInputSystem: 0
@@ -906,4 +1033,7 @@ PlayerSettings:
 >>>>>>> 0e21b3943b8681105d9f60f30f23997778f82bc1
 >>>>>>> f068f8c43754b8a040d90a18dd7570f010234483
 >>>>>>> 17fc6b0fde1a3c3db67b5de59ffe7496f658362c
+<<<<<<< HEAD
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
+=======
 >>>>>>> c5355364e0da458642323b425de8fbc537281d7a
