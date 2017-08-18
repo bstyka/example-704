@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+m_EditorVersion: 5.5.2f1
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 m_EditorVersion: 5.5.2f1
@@ -13,3 +16,4 @@ m_EditorVersion: 2017.1.0f3
 =======
 >>>>>>> 838a7293f347adcc7707b43f90a78671befc6809
 >>>>>>> 28276cb54b06fdb5838342cb2006b3d8b32e5505
+>>>>>>> 0e21b3943b8681105d9f60f30f23997778f82bc1

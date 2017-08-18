@@ -4,6 +4,22 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
 <<<<<<< HEAD
+  serializedVersion: 12
+  productGUID: 348d3a358a38d6544860e376a6a08652
+=======
+<<<<<<< HEAD
+  serializedVersion: 10
+  productGUID: b8ca2325d092e4142a51efc31082536e
+=======
+<<<<<<< HEAD
+  serializedVersion: 12
+  productGUID: ae2d581842ed58c4295311deeb657aef
+=======
+<<<<<<< HEAD
+  serializedVersion: 10
+  productGUID: 0735be3a7f4bd044995fb7762c294b54
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
   serializedVersion: 12
   productGUID: 8619a79597325ed4cbfcb12d3a14402a
@@ -23,6 +39,10 @@ PlayerSettings:
 >>>>>>> 4c90f394e9487ee2fea704b875be978d107fe8ad
 >>>>>>> 2626e633bd5099758bbd34199e39bceb989a59d2
 >>>>>>> f216f500aae4823573736fe992bcff9c973b7eca
+>>>>>>> 0e21b3943b8681105d9f60f30f23997778f82bc1
+>>>>>>> f068f8c43754b8a040d90a18dd7570f010234483
+>>>>>>> 17fc6b0fde1a3c3db67b5de59ffe7496f658362c
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
   AndroidProfiler: 0
   defaultScreenOrientation: 4
   targetDevice: 2
@@ -32,7 +52,7 @@ PlayerSettings:
   productName: ProjectEX
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
-  m_SplashScreenBackgroundColor: {r: 0.13333334, g: 0.17254902, b: 0.21176471, a: 1}
+  m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
   m_ShowUnitySplashScreen: 1
   m_ShowUnitySplashLogo: 1
   m_SplashScreenOverlayOpacity: 1
@@ -88,12 +108,14 @@ PlayerSettings:
   captureSingleScreen: 0
   muteOtherAudioSources: 0
   Prepare IOS For Recording: 0
+  Force IOS Speakers When Recording: 0
   submitAnalytics: 1
   usePlayerLog: 1
   bakeCollisionMeshes: 0
   forceSingleInstance: 0
   resizableWindow: 0
   useMacAppStoreValidation: 0
+  macAppStoreCategory: public.app-category.games
   gpuSkinning: 0
   graphicsJobs: 0
   xboxPIXTextureCapture: 0
@@ -101,7 +123,7 @@ PlayerSettings:
   xboxEnableKinect: 0
   xboxEnableKinectAutoTracking: 0
   xboxEnableFitness: 0
-  visibleInBackground: 1
+  visibleInBackground: 0
   allowFullscreenSwitch: 1
   graphicsJobMode: 0
   macFullscreenMode: 2
@@ -114,11 +136,11 @@ PlayerSettings:
   n3dsDisableStereoscopicView: 0
   n3dsEnableSharedListOpt: 1
   n3dsEnableVSync: 0
-  uiUse16BitDepthBuffer: 0
   ignoreAlphaClear: 0
   xboxOneResolution: 0
   xboxOneMonoLoggingLevel: 0
   xboxOneLoggingLevel: 1
+  xboxOneDisableEsram: 0
   videoMemoryForVertexBuffers: 0
   psp2PowerMode: 0
   psp2AcquireBGM: 1
@@ -137,20 +159,45 @@ PlayerSettings:
     16:10: 1
     16:9: 1
     Others: 1
-  bundleIdentifier: com.Company.ProductName
   bundleVersion: 1.0
   preloadedAssets: []
   metroInputSource: 0
   m_HolographicPauseOnTrackingLoss: 1
   xboxOneDisableKinectGpuReservation: 0
+  xboxOneEnable7thCore: 0
+  vrSettings:
+    cardboard:
+      depthFormat: 0
+      enableTransitionView: 0
+    daydream:
+      depthFormat: 0
+      useSustainedPerformanceMode: 0
+    hololens:
+      depthFormat: 1
   protectGraphicsMemory: 0
 <<<<<<< HEAD
   useHDRDisplay: 0
+=======
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  useHDRDisplay: 0
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  useHDRDisplay: 0
+<<<<<<< HEAD
+>>>>>>> f068f8c43754b8a040d90a18dd7570f010234483
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
   targetPixelDensity: 0
   resolutionScalingMode: 0
   applicationIdentifier: {}
   buildNumber: {}
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
 =======
 >>>>>>> 4c90f394e9487ee2fea704b875be978d107fe8ad
 =======
@@ -159,20 +206,23 @@ PlayerSettings:
 =======
 >>>>>>> 2626e633bd5099758bbd34199e39bceb989a59d2
 >>>>>>> f216f500aae4823573736fe992bcff9c973b7eca
+>>>>>>> 0e21b3943b8681105d9f60f30f23997778f82bc1
+>>>>>>> f068f8c43754b8a040d90a18dd7570f010234483
+>>>>>>> 17fc6b0fde1a3c3db67b5de59ffe7496f658362c
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
   AndroidBundleVersionCode: 1
-  AndroidMinSdkVersion: 9
+  AndroidMinSdkVersion: 16
+  AndroidTargetSdkVersion: 0
   AndroidPreferredInstallLocation: 1
   aotOptions: 
-  apiCompatibilityLevel: 2
   stripEngineCode: 1
   iPhoneStrippingLevel: 0
   iPhoneScriptCallOptimization: 0
-  iPhoneBuildNumber: 0
   ForceInternetPermission: 0
   ForceSDCardPermission: 0
   CreateWallpaper: 0
   APKExpansionFiles: 0
-  preloadShaders: 0
+  keepLoadedShadersAlive: 0
   StripUnusedMeshComponents: 0
   VertexChannelCompressionMask:
     serializedVersion: 2
@@ -230,10 +280,25 @@ PlayerSettings:
   iOSRenderExtraFrameOnPause: 0
 =======
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  metalEditorSupport: 1
+  metalAPIValidation: 1
+  iOSRenderExtraFrameOnPause: 0
+<<<<<<< HEAD
+=======
+=======
+<<<<<<< HEAD
 >>>>>>> 4c90f394e9487ee2fea704b875be978d107fe8ad
 =======
 >>>>>>> 2626e633bd5099758bbd34199e39bceb989a59d2
 >>>>>>> f216f500aae4823573736fe992bcff9c973b7eca
+>>>>>>> 0e21b3943b8681105d9f60f30f23997778f82bc1
+>>>>>>> f068f8c43754b8a040d90a18dd7570f010234483
+>>>>>>> 17fc6b0fde1a3c3db67b5de59ffe7496f658362c
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
   appleDeveloperTeamID: 
   iOSManualSigningProvisioningProfileID: 
   tvOSManualSigningProvisioningProfileID: 
@@ -278,6 +343,7 @@ PlayerSettings:
   wiiUGamePadStartupScreen: {fileID: 0}
   wiiUDrcBufferDisabled: 0
   wiiUProfilerLibPath: 
+  playModeTestRunnerEnabled: 0
   actionOnDotNetUnhandledException: 1
   enableInternalProfiler: 0
   logObjCUncaughtExceptions: 1
@@ -286,10 +352,23 @@ PlayerSettings:
   locationUsageDescription: 
   microphoneUsageDescription: 
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
   switchNetLibKey: 
   switchSocketMemoryPoolSize: 6144
   switchSocketAllocatorPoolSize: 128
   switchSocketConcurrencyLimit: 14
+  switchScreenResolutionBehavior: 2
+  switchUseCPUProfiler: 0
+  switchApplicationID: 0x01004b9000490000
+<<<<<<< HEAD
+=======
+=======
 <<<<<<< HEAD
   switchScreenResolutionBehavior: 2
   switchUseCPUProfiler: 0
@@ -298,6 +377,8 @@ PlayerSettings:
   switchUseCPUProfiler: 0
   switchApplicationID: 0x0005000C10000001
 >>>>>>> f216f500aae4823573736fe992bcff9c973b7eca
+>>>>>>> f068f8c43754b8a040d90a18dd7570f010234483
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
   switchNSODependencies: 
   switchTitleNames_0: 
   switchTitleNames_1: 
@@ -313,10 +394,16 @@ PlayerSettings:
   switchTitleNames_11: 
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
   switchTitleNames_12: 
   switchTitleNames_13: 
   switchTitleNames_14: 
 >>>>>>> f216f500aae4823573736fe992bcff9c973b7eca
+>>>>>>> f068f8c43754b8a040d90a18dd7570f010234483
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
   switchPublisherNames_0: 
   switchPublisherNames_1: 
   switchPublisherNames_2: 
@@ -331,10 +418,16 @@ PlayerSettings:
   switchPublisherNames_11: 
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
   switchPublisherNames_12: 
   switchPublisherNames_13: 
   switchPublisherNames_14: 
 >>>>>>> f216f500aae4823573736fe992bcff9c973b7eca
+>>>>>>> f068f8c43754b8a040d90a18dd7570f010234483
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
   switchIcons_0: {fileID: 0}
   switchIcons_1: {fileID: 0}
   switchIcons_2: {fileID: 0}
@@ -349,10 +442,16 @@ PlayerSettings:
   switchIcons_11: {fileID: 0}
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
   switchIcons_12: {fileID: 0}
   switchIcons_13: {fileID: 0}
   switchIcons_14: {fileID: 0}
 >>>>>>> f216f500aae4823573736fe992bcff9c973b7eca
+>>>>>>> f068f8c43754b8a040d90a18dd7570f010234483
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
   switchSmallIcons_0: {fileID: 0}
   switchSmallIcons_1: {fileID: 0}
   switchSmallIcons_2: {fileID: 0}
@@ -367,19 +466,31 @@ PlayerSettings:
   switchSmallIcons_11: {fileID: 0}
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
   switchSmallIcons_12: {fileID: 0}
   switchSmallIcons_13: {fileID: 0}
   switchSmallIcons_14: {fileID: 0}
 >>>>>>> f216f500aae4823573736fe992bcff9c973b7eca
+>>>>>>> f068f8c43754b8a040d90a18dd7570f010234483
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
   switchManualHTML: 
   switchAccessibleURLs: 
   switchLegalInformation: 
   switchMainThreadStackSize: 1048576
+  switchPresenceGroupId: 0x01004b9000490000
+<<<<<<< HEAD
+=======
+=======
 <<<<<<< HEAD
   switchPresenceGroupId: 0x01004b9000490000
 =======
   switchPresenceGroupId: 0x0005000C10000001
 >>>>>>> f216f500aae4823573736fe992bcff9c973b7eca
+>>>>>>> f068f8c43754b8a040d90a18dd7570f010234483
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
   switchLogoHandling: 0
   switchReleaseVersion: 0
   switchDisplayVersion: 1.0.0
@@ -390,11 +501,17 @@ PlayerSettings:
   switchApplicationErrorCodeCategory: 
   switchUserAccountSaveDataSize: 0
   switchUserAccountSaveDataJournalSize: 0
+  switchApplicationAttribute: 0
+<<<<<<< HEAD
+=======
+=======
 <<<<<<< HEAD
   switchApplicationAttribute: 0
 =======
   switchAttribute: 0
 >>>>>>> f216f500aae4823573736fe992bcff9c973b7eca
+>>>>>>> f068f8c43754b8a040d90a18dd7570f010234483
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
   switchCardSpecSize: 4
   switchCardSpecClock: 25
   switchRatingsMask: 0
@@ -410,11 +527,17 @@ PlayerSettings:
   switchRatingsInt_9: 0
   switchRatingsInt_10: 0
   switchRatingsInt_11: 0
+  switchLocalCommunicationIds_0: 0x01004b9000490000
+<<<<<<< HEAD
+=======
+=======
 <<<<<<< HEAD
   switchLocalCommunicationIds_0: 0x01004b9000490000
 =======
   switchLocalCommunicationIds_0: 0x0005000C10000001
 >>>>>>> f216f500aae4823573736fe992bcff9c973b7eca
+>>>>>>> f068f8c43754b8a040d90a18dd7570f010234483
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
   switchLocalCommunicationIds_1: 
   switchLocalCommunicationIds_2: 
   switchLocalCommunicationIds_3: 
@@ -426,6 +549,12 @@ PlayerSettings:
   switchAllowsScreenshot: 1
   switchDataLossConfirmation: 0
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> f068f8c43754b8a040d90a18dd7570f010234483
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
   switchSupportedNpadStyles: 3
   switchSocketConfigEnabled: 0
   switchTcpInitialSendBufferSize: 32
@@ -435,9 +564,15 @@ PlayerSettings:
   switchUdpSendBufferSize: 9
   switchUdpReceiveBufferSize: 42
   switchSocketBufferEfficiency: 4
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
 =======
 >>>>>>> f216f500aae4823573736fe992bcff9c973b7eca
 =======
+>>>>>>> 0e21b3943b8681105d9f60f30f23997778f82bc1
+>>>>>>> 17fc6b0fde1a3c3db67b5de59ffe7496f658362c
   XboxTitleId: 
   XboxImageXexPath: 
   XboxSpaPath: 
@@ -449,14 +584,22 @@ PlayerSettings:
   xboxDeployKinectHeadOrientation: 0
   xboxDeployKinectHeadPosition: 0
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
 >>>>>>> 4c90f394e9487ee2fea704b875be978d107fe8ad
 =======
 >>>>>>> 2626e633bd5099758bbd34199e39bceb989a59d2
 >>>>>>> f216f500aae4823573736fe992bcff9c973b7eca
+>>>>>>> 0e21b3943b8681105d9f60f30f23997778f82bc1
+>>>>>>> f068f8c43754b8a040d90a18dd7570f010234483
+>>>>>>> 17fc6b0fde1a3c3db67b5de59ffe7496f658362c
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
   ps4NPAgeRating: 12
   ps4NPTitleSecret: 
   ps4NPTrophyPackPath: 
-  ps4ParentalLevel: 11
+  ps4ParentalLevel: 1
   ps4ContentID: ED1633-NPXX51362_00-0000000000000000
   ps4Category: 0
   ps4MasterVersion: 01.00
@@ -489,8 +632,12 @@ PlayerSettings:
   ps4DownloadDataSize: 0
   ps4GarlicHeapSize: 2048
   ps4ProGarlicHeapSize: 2560
+<<<<<<< HEAD
   ps4Passcode: frAQBc8Wsa1xVPfvJcrgRYwTiizs2trQ
+=======
+  ps4Passcode: eaoEiIgxIX4a2dREbbSqWy6yhKIDCdJO
   ps4UseDebugIl2cppLibs: 0
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
   ps4pnSessions: 1
   ps4pnPresence: 1
   ps4pnFriends: 1
@@ -501,7 +648,7 @@ PlayerSettings:
   ps4ReprojectionSupport: 0
   ps4UseAudio3dBackend: 0
   ps4SocialScreenEnabled: 0
-  ps4ScriptOptimizationLevel: 0
+  ps4ScriptOptimizationLevel: 3
   ps4Audio3dVirtualSpeakerCount: 14
   ps4attribCpuUsage: 0
   ps4PatchPkgPath: 
@@ -536,7 +683,7 @@ PlayerSettings:
   psp2LiveAreaTrialPath: 
   psp2PatchChangeInfoPath: 
   psp2PatchOriginalPackage: 
-  psp2PackagePassword: F69AzBlax3CF3EDNhm3soLBPh71Yexui
+  psp2PackagePassword: yapnxrpMCARCr4zdGc81tBDKsMlaZTXC
   psp2KeystoneFile: 
   psp2MemoryExpansionMode: 0
   psp2DRMType: 0
@@ -565,13 +712,14 @@ PlayerSettings:
   psp2UseLibLocation: 0
   psp2InfoBarOnStartup: 0
   psp2InfoBarColor: 0
-  psp2UseDebugIl2cppLibs: 0
+  psp2ScriptOptimizationLevel: 0
   psmSplashimage: {fileID: 0}
   splashScreenBackgroundSourceLandscape: {fileID: 0}
   splashScreenBackgroundSourcePortrait: {fileID: 0}
   spritePackerPolicy: 
   webGLMemorySize: 256
   webGLExceptionSupport: 1
+  webGLNameFilesAsHashes: 0
   webGLDataCaching: 0
   webGLDebugSymbols: 0
   webGLEmscriptenArgs: 
@@ -587,7 +735,18 @@ PlayerSettings:
   incrementalIl2cppBuild: {}
   additionalIl2CppArgs: 
 <<<<<<< HEAD
+  scriptingRuntimeVersion: 0
+  apiCompatibilityLevelPerPlatform: {}
+=======
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> f068f8c43754b8a040d90a18dd7570f010234483
   scriptingRuntimeVersion: 0
   apiCompatibilityLevelPerPlatform: {}
 =======
@@ -597,6 +756,9 @@ PlayerSettings:
 =======
 >>>>>>> 2626e633bd5099758bbd34199e39bceb989a59d2
 >>>>>>> f216f500aae4823573736fe992bcff9c973b7eca
+>>>>>>> 0e21b3943b8681105d9f60f30f23997778f82bc1
+>>>>>>> 17fc6b0fde1a3c3db67b5de59ffe7496f658362c
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
   metroPackageName: ProjectEX
@@ -673,12 +835,29 @@ PlayerSettings:
   XboxOneAllowedProductIds: []
   XboxOnePersistentLocalStorageSize: 0
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  vrEditorSettings: {}
+  cloudServicesEnabled: {}
+=======
+<<<<<<< HEAD
+  vrEditorSettings: {}
+  cloudServicesEnabled: {}
+=======
+<<<<<<< HEAD
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
   xboxOneScriptCompiler: 0
   vrEditorSettings:
     daydream:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled: {}
+  facebookSdkVersion: 7.9.4
+<<<<<<< HEAD
+  apiCompatibilityLevel: 2
+=======
+  apiCompatibilityLevel: 2
+=======
 <<<<<<< HEAD
   facebookSdkVersion: 7.9.4
 =======
@@ -693,10 +872,26 @@ PlayerSettings:
 =======
 >>>>>>> 2626e633bd5099758bbd34199e39bceb989a59d2
 >>>>>>> f216f500aae4823573736fe992bcff9c973b7eca
+>>>>>>> 0e21b3943b8681105d9f60f30f23997778f82bc1
+>>>>>>> f068f8c43754b8a040d90a18dd7570f010234483
+>>>>>>> 17fc6b0fde1a3c3db67b5de59ffe7496f658362c
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
   cloudProjectId: 
   projectName: 
   organizationId: 
   cloudEnabled: 0
+<<<<<<< HEAD
+  enableNativePlatformBackendsForNewInputSystem: 0
+  disableOldInputManagerSupport: 0
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  enableNativePlatformBackendsForNewInputSystem: 0
+  disableOldInputManagerSupport: 0
+=======
+<<<<<<< HEAD
+=======
 <<<<<<< HEAD
 <<<<<<< HEAD
   enableNativePlatformBackendsForNewInputSystem: 0
@@ -708,3 +903,7 @@ PlayerSettings:
 =======
 >>>>>>> 2626e633bd5099758bbd34199e39bceb989a59d2
 >>>>>>> f216f500aae4823573736fe992bcff9c973b7eca
+>>>>>>> 0e21b3943b8681105d9f60f30f23997778f82bc1
+>>>>>>> f068f8c43754b8a040d90a18dd7570f010234483
+>>>>>>> 17fc6b0fde1a3c3db67b5de59ffe7496f658362c
+>>>>>>> c5355364e0da458642323b425de8fbc537281d7a
